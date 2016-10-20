@@ -8,6 +8,6 @@ This is my personal space for storing the codes of exercises of data structure a
 - Sorting 	
 - String Operations
 - Array Operations
-- Queue and Stack Operation
+- Queue and Stack Operations
 - Binary Search
 - Binary Tree
